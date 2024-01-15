@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-MariaDB	![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
@@ -87,7 +87,7 @@ MariaDB	![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-bad
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdfbf1&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prislewarz&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=prislewarz)](https://github.com/prislewarz/github-readme-stats)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={fbfbf1})](https://solved.ac/{wjdwns5060})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wjdwns5060})](https://solved.ac/{wjdwns5060})
