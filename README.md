@@ -1,6 +1,5 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jeongjoon%20Park&fontSize=90&animation=https://user-images.githubusercontent.com/66999675/134764988-09f4fdf0-7ec8-4e51-845e-bd6a876264b5.mp4)
-[! [조회수] (https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprislewarz&count_bg=%2379C83D&title_bg=%23555555&icon=microsoft.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)] (https://hits.seeyoufarm.com)
 
 <!--
 **prislewarz/prislewarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
