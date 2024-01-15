@@ -87,6 +87,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prislewarz&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=prislewarz)](https://github.com/prislewarz/github-readme-stats)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wjdwns5060})](https://solved.ac/{wjdwns5060})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wjdwns5060})](https://solved.ac/{wjdwns5060})
