@@ -1,5 +1,5 @@
 ### Hi there 👋
-!(https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jeongjoon%20Park&fontSize=90&animation=https://user-images.githubusercontent.com/66999675/134764988-09f4fdf0-7ec8-4e51-845e-bd6a876264b5.mp4)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Jeongjoon%20Park&fontSize=90)
 
 <!--
 **prislewarz/prislewarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
