@@ -3,7 +3,7 @@
 
 <!-- 움직이는 기술스택 아이콘 -->
 <div style="display: flex; align-items: flex-start;">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="70" /><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /></div>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="70" height="70" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="70" height="70" /></div>
 
 <!--
 **prislewarz/prislewarz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
